@@ -1,0 +1,6 @@
+@ECommerceDDD_HostAddress = http://localhost:5217
+
+GET {{ECommerceDDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
